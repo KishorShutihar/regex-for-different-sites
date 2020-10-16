@@ -1,6 +1,6 @@
 # regex-for-different-sites
 
- This regex captures the VIDEO LINK from url and SATISFIES for following links of Youtube:
+ This regex not only satisfies for following links of youtube but also captures the videoid from the url:  
 
 https://www.youtube.com/watch?v=DFYRQ_zQ-gk&feature=featured
 
