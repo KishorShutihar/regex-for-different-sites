@@ -1,5 +1,6 @@
-var youtubeRegex = "(?:https?:)?(?:\/{2})?(?:(?:w{3}|m)\.)?(?:youtube\.com|youtu\.be)\/(?:(?:watch\?.*(v=[^&\s]*))|(?:embed\/.*))?.*"
-/* This regex satisfies for following links of youtube:
+var youtubeRegex = "(?:https?:)?(?:\/{2})?(?:(?:w{3}|m)\.)?(?:youtube\.com|youtu\.be)\/(?:(?:watch\?.*(v=[^&\s]*))|(?:v\/([^?\s]*))|(?:embed\/([^?\s]*)))?.*";
+
+/* This regex satisfies for following links of youtube along with videoid capture
 
 https://www.youtube.com/watch?v=DFYRQ_zQ-gk&feature=featured
 https://www.youtube.com/watch?v=DFYRQ_zQ-gk
