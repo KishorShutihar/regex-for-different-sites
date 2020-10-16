@@ -1,6 +1,6 @@
 # regex-for-different-sites
 
-/* This regex captures the VIDEO LINK from url and SATISFIES for following links of youtube:
+ This regex captures the VIDEO LINK from url and SATISFIES for following links of Youtube:
 
 https://www.youtube.com/watch?v=DFYRQ_zQ-gk&feature=featured
 https://www.youtube.com/watch?v=DFYRQ_zQ-gk
@@ -39,7 +39,7 @@ http://youtu.be/DFYRQ_zQ-gk
 //youtu.be/DFYRQ_zQ-gk
 youtu.be/DFYRQ_zQ-gk
 
-https://www.youtube.com/HamdiKickProduction?v=DFYRQ_zQ-gk */
+https://www.youtube.com/HamdiKickProduction?v=DFYRQ_zQ-gk 
 
 
 
